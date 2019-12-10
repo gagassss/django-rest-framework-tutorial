@@ -23,5 +23,10 @@ pip install djangorestframework
 ```
 run the server
 ```
+python manage.py migrate
 python manage.py runserver
+```
+create super user
+```
+python manage.py createsuperuser --email user@example.com --username user
 ```
