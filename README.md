@@ -1,7 +1,7 @@
 # django-rest-framework-tutorial
 Learn to create a RESTful API with python &amp; django!
 *this repository to learn and completed task in Google Code-in*
-
+![alt text](/result.JPG)
 #installing
 clone repository
 ```
